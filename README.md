@@ -1,6 +1,6 @@
 --
 
-local CorrectKey = "SNACUM" -- Change this to your desired key
+local CorrectKey = "SNA" -- Change this to your desired key
 local AdLink = "Coming" -- Replace with your Reshort link
 
 -- UI for key input
@@ -33,7 +33,7 @@ VerifyButton.MouseButton1Click:Connect(function()
         print("Access Granted!") 
         
         
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/RedJDark/CONTROL-SCRIPTT/refs/heads/main/REAL%20SCRIPT"))() 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/SNAFUL/SNAFUL/refs/heads/main/MAIN"))() 
 
     else
         TextBox.Text = "Invalid Key"
