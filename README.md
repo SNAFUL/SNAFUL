@@ -1,4 +1,4 @@
--- By SnaFuL Fuck You If Don't Give My Credit Nigger You Suck
+--
 
 local CorrectKey = "SNACUM" -- Change this to your desired key
 local AdLink = "Coming" -- Replace with your Reshort link
